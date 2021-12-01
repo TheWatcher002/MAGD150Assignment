@@ -1,1 +1,1 @@
-# MAGD150Assignment
+# MAGD150Assignments
