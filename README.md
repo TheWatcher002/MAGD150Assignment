@@ -8,7 +8,9 @@ This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21
 
 This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab06_Schrader) is my sixth work. This work is an 8bit theme. I chose Tetris as my theme and the program has a few features. There is one user responsive piece, where if you click with the mouse, a T-piece rotates. There is another T-piece that is pulsating where the user T-piece should go.
 
-This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab09_Schrader) is my ninth work. This work is 
+This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab09_Schrader) is my ninth work. This work is a mirror theme. I choose to do an actual mirror with a main figure on it and his transparent figure in the foreground. Also in the mirror is another darker figure behind the main figure. When you click on a button, some unsettling sound plays. Another feature is the program uses the webcam and projects it into one of the corners of the canvas.
+
+This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab10_Schrader) is my tenth work. 
 
 Repository link https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages
 GitHub.io link https://thewatcher002.github.io/MAGD150Assignment/
