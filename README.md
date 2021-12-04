@@ -1,8 +1,8 @@
 # MAGD 150 Assignments
 
-This is the repository examply for MAGD 150.
+This is the repository list for MAGD 150.
 
-This in a link to 
+This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab04_Schrader) is to one of my works. This work is a pizza theme with a text put in the code and a pepperoni flying up off the pizza.
 
 This is a link to
 
