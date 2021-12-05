@@ -10,7 +10,7 @@ This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21
 
 This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab09_Schrader) is my ninth work. This work is a mirror theme. I choose to do an actual mirror with a main figure on it and his transparent figure in the foreground. Also in the mirror is another darker figure behind the main figure. When you click on a button, some unsettling sound plays. Another feature is the program uses the webcam and projects it into one of the corners of the canvas.
 
-This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab10_Schrader) is my tenth work. 
+This [link](https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages/f21magd150lab10_Schrader) is my tenth work. This work is a city theme. In this project, there are a few 3D objects, two rectangle blocks and one dumpster. There is also a light source that follows the mouse as well as some ambient sources. The last feature of this project is the swiveling camera that looks left and right.
 
 Repository link https://github.com/TheWatcher002/MAGD150Assignment/tree/gh-pages
 GitHub.io link https://thewatcher002.github.io/MAGD150Assignment/
